@@ -25,7 +25,7 @@ I'm a beginner full-stack developer passionate about building web applications. 
 - Responsibilities: Assisted to develop websites.
 - Trainee at Various Companies in bootcamp.
 - Duration: 7-days
-- Role: Learning 🙇‍♂️
+- Role: Learning🙇‍♂️
 - Companies: @AWS community builders, @Google Developer Student Clubs, @Devtown🏢
 - Responsibilities: Intro to C++ and DSA(Data Structures and Algorithms)
 
