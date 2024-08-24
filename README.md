@@ -3,7 +3,7 @@
 I'm a beginner full-stack developer passionate about building web applications. I'm currently honing my skills in HTML, CSS, JavaScript, and exploring frameworks like Node.js. I'm also actively learning Data Structures and Algorithms to enhance my coding and problem-solving abilities. Excited to learn, grow, and collaborate on meaningful projects!✨📈
 ## 🛠 Skills
 - **Languages:** [HTML, CSS, JavaScript]
-- **Frameworks:** (React, Node.JS)
+- **Frameworks:** (Node.JS)
 - **Tools:** {Git, VS Code}💻
 ## 🔭 Current Projects
 - [Project 1]: Portfolio Website: A responsive personal website built with HTML, CSS, and JavaScript.
